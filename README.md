@@ -1,6 +1,6 @@
 <a id="top"></a>
 
-**Sprache / Langue : [Deutsch](#deutsch) | [Français](#francais)**
+**Sprache / Langue / Language : [Deutsch](#deutsch) | [Français](#francais) | [English](#english)**
 
 <a id="deutsch"></a>
 
@@ -111,7 +111,7 @@ Ich strukturiere gerne Informationen, gehe Problemen auf den Grund und vermittle
 
 ---
 
-[↑ Sprachauswahl / Choix de langue](#top)
+[↑ Sprachauswahl / Choix de langue / Language selection](#top)
 
 <a id="francais"></a>
 
@@ -219,3 +219,116 @@ J'aime structurer l'information, comprendre un problème et présenter une répo
 🌐 [Portfolio et travaux Udacity](https://www.franckeale.de/)  
 📧 [eale@franckeale.de](mailto:eale@franckeale.de)  
 💻 [Tous mes dépôts GitHub](https://github.com/Franckeale?tab=repositories)
+
+---
+
+[↑ Sprachauswahl / Choix de langue / Language selection](#top)
+
+<a id="english"></a>
+
+# Hello, I'm Franck Eale 👋
+
+**Multilingual Customer Service · Data Analysis · Business Intelligence**  
+📍 Hannover region, Germany | French · German · English
+
+I work in e-commerce after-sales support and am developing my skills in **Python, SQL Server and Power BI**. My background combines practical customer service experience with learning projects in data analysis.
+
+## My portfolio — my Udacity projects
+
+### ➜ [Explore my portfolio at www.franckeale.de](https://www.franckeale.de/)
+
+My website features **five projects completed during my Udacity training**: exploring temperature trends, analysing TMDb movie data, an e-commerce A/B test, data wrangling and data visualisation.
+
+The notebooks show the code, workflow and results. These are educational projects; the business scenarios used are not client engagements.
+
+## Three selected Udacity projects
+
+### 1. Analysing an e-commerce A/B test
+
+🔗 [View the project on my website](https://www.franckeale.de/project_3.html)
+
+**Question:** Should an existing web page be retained or replaced with a new version based on the observed conversions?
+
+The notebook includes data exploration, checks of the alignment between test groups and page variants, probability analysis, statistical tests and a section on regression.
+
+**Tools:** Python, pandas, NumPy, Matplotlib, statistical methods.
+
+**Business relevance:** Examining an e-commerce decision using data and distinguishing an observed difference from statistical evidence. This project connects my online retail experience with my learning in data analysis.
+
+### 2. Wrangle and Analyze Data — data preparation
+
+🔗 [View the project on my website](https://www.franckeale.de/project_4.html)
+
+Collecting, assessing and preparing Twitter archive data from different sources and formats, including CSV and TSV.
+
+The notebook contains checks of data structure, types and missing values, alongside preparation and analysis steps.
+
+**Tools:** Python, pandas, NumPy, requests, Matplotlib, Seaborn.
+
+**Business relevance:** Understanding data quality before creating metrics. This approach provides a useful foundation for reporting and Business Intelligence.
+
+### 3. Data Visualization — exploring automobile data
+
+🔗 [View the project on my website](https://www.franckeale.de/project_5.html)
+
+Exploring an automobile dataset in an educational scenario focused on vehicle characteristics that may be associated with prices.
+
+The work combines data preparation, handling missing values, converting variables and visualisations to examine relationships between characteristics.
+
+**Tools:** Python, pandas, NumPy, Matplotlib, Seaborn.
+
+**Business relevance:** Making a dataset easier to understand and communicating observations through charts. This project demonstrates my practice of data visualisation in Python.
+
+### Other Udacity projects
+
+- [Explore Weather Trends — local and global temperatures](https://www.franckeale.de/project_1.html)
+- [Investigate a Dataset — TMDb movies](https://www.franckeale.de/project_.html)
+
+## Additional work on GitHub
+
+| Project | Contents |
+|---|---|
+| [Boston Housing](https://github.com/Franckeale/Exploratory-Data-Analysis-on-Boston-Housing-Data) | Exploratory data analysis, visualisations, t-test, ANOVA, Pearson correlation and regression. |
+| [Stock data — Final-Assignment](https://github.com/Franckeale/Final-Assignment) | IBM Skills Network exercise: extracting and preparing Tesla/GameStop data, then visualising it with Plotly using the provided learning material. |
+| [Data Science Tools and Ecosystem](https://github.com/Franckeale/Data-Science-Tools-and-Ecosystem) | Educational notebook on data science tools and basic calculations in Python. |
+
+These projects complement my Udacity portfolio and document my technical progress.
+
+## My customer service experience
+
+Since **November 2024**, I have worked as an **After Sales Agent at Ganz Einfach GmbH**, providing support in French, German and English.
+
+My responsibilities include:
+
+- Handling customer enquiries on marketplaces such as Amazon, OTTO, Kaufland, Galaxus/Digitec and eBay.
+- Tracking deliveries and resolving logistics issues.
+- Handling returns, replacements, refunds and warranty enquiries.
+- Explaining solutions and following up on cases in the customer's language.
+
+This experience gives me practical insight into the challenges faced by customers and operational teams. I would like to deepen my analysis of contact reasons, product returns and resolution times.
+
+## Skills and tools
+
+| Area | Skills and tools |
+|---|---|
+| Customer service | Multilingual support, written communication, case follow-up, problem-solving |
+| Data analysis | Python, pandas, NumPy, data exploration and preparation |
+| Statistics | A/B tests, t-tests, ANOVA, correlation and regression in educational projects |
+| Visualisation | Matplotlib, Seaborn, practical experience with Plotly |
+| Databases and BI | SQL Server and Power BI — skills I am continuing to develop |
+| Working environment | Jupyter Notebook, Google Colab, VS Code, GitHub |
+| Languages | French, German, English; also Lingala and Swahili |
+
+## My professional goal
+
+To contribute my multilingual customer service experience to e-commerce teams while developing my career in **junior data analysis**, **reporting** and **Business Intelligence**.
+
+I enjoy structuring information, understanding a problem and communicating a clear answer, whether I am handling a customer case or analysing data.
+
+## Contact
+
+🌐 [Portfolio and Udacity projects](https://www.franckeale.de/)  
+📧 [eale@franckeale.de](mailto:eale@franckeale.de)  
+💻 [All my GitHub repositories](https://github.com/Franckeale?tab=repositories)
+
+[↑ Language selection](#top)
