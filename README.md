@@ -103,6 +103,10 @@ Meine Erfahrung im mehrsprachigen Kundenservice in E-Commerce-Teams einbringen u
 
 Ich strukturiere gerne Informationen, gehe Problemen auf den Grund und vermittle verständliche Antworten — bei Kundenanliegen ebenso wie bei Datenanalysen.
 
+## Bildbearbeitung mit KI
+
+📷 [Kurzanleitung: Bildbearbeitungs-Prompts und Kürzel (Französisch)](IMAGE_EDITING_PROMPTS.md)
+
 ## Kontakt
 
 🌐 [Portfolio und Udacity-Projekte](https://www.franckeale.de/)  
@@ -214,6 +218,10 @@ Apporter mon expérience du service client multilingue à des équipes e-commerc
 
 J'aime structurer l'information, comprendre un problème et présenter une réponse claire, qu'il s'agisse d'un dossier client ou d'une analyse de données.
 
+## Retouche photo avec l'IA
+
+📷 [Guide des raccourcis de retouche photo](IMAGE_EDITING_PROMPTS.md) — exemples de prompts à copier.
+
 ## Contact
 
 🌐 [Portfolio et travaux Udacity](https://www.franckeale.de/)  
@@ -324,6 +332,10 @@ This experience gives me practical insight into the challenges faced by customer
 To contribute my multilingual customer service experience to e-commerce teams while developing my career in **junior data analysis**, **reporting** and **Business Intelligence**.
 
 I enjoy structuring information, understanding a problem and communicating a clear answer, whether I am handling a customer case or analysing data.
+
+## AI image-editing prompts
+
+📷 [Image-editing prompt shortcuts (French guide)](IMAGE_EDITING_PROMPTS.md)
 
 ## Contact
 
